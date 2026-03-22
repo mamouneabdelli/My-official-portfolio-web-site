@@ -8,8 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://www.linkedin.com/in/abdelmoumen-abdelli-2281212bb/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mamoune.sonatiba@gmail.com)
+
 
 
 </div>
