@@ -38,13 +38,6 @@ class AbdelliAbdelmoumen:
 
 <div align="center">
 
-| 🥇 Award | 🏛️ Organizer | 📅 Year |
-|---|---|---|
-| **Hackathon Winner** — AI24DAY (2nd Edition) | AI House · University of Guelma 8 May 1945 × TechGeeks × LabSTIC | 2025 |
-
-</div>
-
----
 
 ## 📜 Certifications
 
@@ -95,16 +88,6 @@ class AbdelliAbdelmoumen:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00b4d8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_color=00b4d8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=00b4d8" />
-</div>
 
 ---
 
@@ -114,11 +97,6 @@ class AbdelliAbdelmoumen:
 🎓  Computer Science Engineering — AI Specialty     2022 – Present
     Your University, Algeria
 
-📜  Baccalaureate Degree                             2023
-    Grade: 14.31 / 20
-```
-
----
 
 ## 🌍 Languages
 
