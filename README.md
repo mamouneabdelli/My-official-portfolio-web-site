@@ -22,7 +22,7 @@ class AbdelliAbdelmoumen:
     def __init__(self):
         self.name        = "Abdelli Abdelmoumen"
         self.role        = "CS Engineering Student — AI Specialty (3rd Year)"
-        self.university  = "Your University, Algeria 🇩🇿"
+        self.university  = "8mai 1945 guelma, Algeria 🇩🇿"
         self.interests   = ["Artificial Intelligence", "Cybersecurity", 
                             "Full-Stack Development", "Mobile Apps"]
         self.currently   = "Building AI-powered projects & exploring cybersecurity"
