@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3c6e,100:00b4d8&height=200&section=header&text=Abdelli%20Abdelmoumen&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20%7C%20AI%20%26%20Cybersecurity&descAlignY=58&descColor=b0c8e8&animation=fadeIn"/>
+
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%90;Full-Stack+%26+Mobile+Developer+%F0%9F%92%BB;Hackathon+Winner+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -26,7 +25,6 @@ class AbdelliAbdelmoumen:
         self.interests   = ["Artificial Intelligence", "Cybersecurity", 
                             "Full-Stack Development", "Mobile Apps"]
         self.currently   = "Building AI-powered projects & exploring cybersecurity"
-        self.fun_fact    = "I won a hackathon on AI in less than 24 hours 🏆"
 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great together 🚀")
